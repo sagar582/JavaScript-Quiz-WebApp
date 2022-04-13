@@ -1,0 +1,36 @@
+table.center{
+    height: 70%;
+    align-items: left;
+    text-align: left;
+    margin: auto;
+    margin-top: 40px;
+    background-color:lightgoldenrodyellow;
+    color: black;
+}
+
+
+input[type="radio"]{
+    margin: 5px 2px 8px 2px;
+  }
+
+
+button[type="button"]{
+    margin: 10px 10px 20px 10px;
+}
+
+.demo{
+    display: flex;
+    text-align: left;
+    align-items: left;
+    justify-content: left;
+    margin-left: 80px;
+}
+
+.space{
+    margin-right: 70px;
+}
+
+.quizetitle{
+    margin-top:20px;
+    margin-bottom:10px;
+}
